@@ -1,4 +1,10 @@
 public class OLFUVMV {
+    /*
+    * Week 3: Assignment No. 1
+    * PROGRAMMER: FELIX F. NARIO  II
+    * DATE: SEPTEMBER 4 YEAR 2024
+    * 3:36PM
+    * */
     public static void main(String[] args) {
 
         System.out.println("Vision");
